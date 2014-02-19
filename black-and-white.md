@@ -1,6 +1,6 @@
 ```
 This was the article I submitted to 2600: The Hacker Quarterly
-I hereby release it into the Public Domain
+I hereby release it into the Public Domain:
 ```
 About two years ago, I was a computer engineering undergraduate at UCF, hoping to eventually go to graduate school and eventually earn a Ph.D. One day, my curiosity got the best of me. I went to infragardtampabay.org and decided, "This website is used by the FBI, another Infragard site just got hacked by LulzSec. I'm no skilled hacker, so if I just looked around it should be harmless enough. I probably won't find anything." How many 2600 readers told themselves that before?
 
@@ -50,3 +50,8 @@ The time for the whitehat is over. Unless you have a solid contract and previous
 If your good nature won't let you abandon the whitehat path, let me make a friendly recommendation: don't help companies, don't help schools, don't help the government. Only help people; and even then, only do so safely and anonymously. Being anonymous should be your first priority. You can't trust anyone. TOR and proper OpSec (see also: grugq.github.io) are your essentials.
 
 The law is black and white. You're either a criminal or not. (Most likely: you are.) While most of the hackers I've met are varying shades of gray, I think everyone could do well by taking a phrase out of the FBI's dictionary, and "go dark."
+
+```
+Addendum: After submitting the article, I rediscovered the name of the young man who hacked Facebook: Glenn Mangham.
+His side of the story is available here: http://gmangham.blogspot.co.uk/2012/04/facebook-hack-what-really-happened.html
+```
